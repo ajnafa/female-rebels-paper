@@ -28,13 +28,12 @@
 # Project Files to Temporarily Ignore
 data
 docs
-functions
 manuscript
-scripts
 output/predictions
 output/project-data
 
 # Project Files to Ignore
 output/fits
+.old-files
 
 
